@@ -22,4 +22,4 @@ This project aims to showcase:
 - Building a functional store concept from scratch
 
 ## Live Demo (Vercel)
-[View Fruitkha on Vercel](your-vercel-link-here)
+[View Fruitkha on Vercel](fruitkha-sepia.vercel.app)
